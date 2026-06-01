@@ -16,6 +16,8 @@
 
 ---
 
+![LGNbot Logo](LGNbot.webp)
+
 ## Project Structure
 
 ```
