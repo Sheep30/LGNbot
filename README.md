@@ -1,3 +1,5 @@
+(thanks to [kgallimore]([https://www.lgnw3.com](https://github.com/kgallimore)) for his helpand work)
+
 # LGNbot — WC3 Legion TD Companion Tool
 
 > A Windows desktop application for **Warcraft III Legion TD** hosts — featuring real-time lobby monitoring, ELO tracking, player ranking, and automated game management.
