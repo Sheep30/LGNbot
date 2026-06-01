@@ -1,4 +1,6 @@
-(thanks to [kgallimore]([https://www.lgnw3.com](https://github.com/kgallimore)) for his helpand work)
+...thanks to [kgallimore](https://github.com/kgallimore)) for his helpand work...
+
+Disaclamer: I have zero coding skills, everything is vibecoded.
 
 # LGNbot — WC3 Legion TD Companion Tool
 
